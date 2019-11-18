@@ -1,6 +1,4 @@
-# <img src="https://static.bocoup.com/pombot/pombot-icon.svg"> Pombot - a bot for time management.
-> Define, pom and deliver - by yourself or with friends.
+# Pombot has moved
 
-## Documentation
-
-Visit the [wiki](http://github.com/bocoup/pombot/wiki) or the [website](http://pombot.bocoup.com) for more information!
+This is the original repository for Pombot, a Slack bot for time management.
+The project is now hosted at [pombot.glitch.me](https://pombot.glitch.me).
